@@ -6,7 +6,7 @@
     },
     "contracts": {
       "KeysStorage": {
-        "addr": "0xeb1352fa30033da7f2a7b50a033ed47ef4b178a6",
+        "addr": "0x38f0b2bf6e2959095f0ecd24e63452ac14d69505",
         "abi": [
           {
             "constant": true,
